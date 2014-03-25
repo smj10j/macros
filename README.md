@@ -11,7 +11,7 @@ These are for **OSX only**.
 ##### Edit the HTML of an Evernote note
 
 - Download
-    - [Keyboard Maestro (11K)](https://github.com/smj10j/macros/blob/master/Evernote/KeyboardMaestro/EditEvernoteAsHTML.kmmacros)
+    - [Keyboard Maestro](https://raw.github.com/smj10j/macros/master/Evernote/KeyboardMaestro/EditEvernoteAsHTML.kmmacros)
 - Requirements
     - Google Chrome Browser
 - Works in
