@@ -4,6 +4,7 @@ For all the things I wish were built-in.
 
 These are for **OSX only**.
 
+Right-click download links and select "Save Link As..."
 
 ### Evernote
 
