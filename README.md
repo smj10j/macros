@@ -11,13 +11,13 @@ Right-click download links and select "Save Link As..."
 
 ##### Edit the HTML of an Evernote note
 
-- Download
+- **Download**
     - [Keyboard Maestro](https://raw.github.com/smj10j/macros/master/Evernote/KeyboardMaestro/EditEvernoteAsHTML.kmmacros)
-- Requirements
+- **Requirements**
     - Google Chrome Browser
-- Works in
+- **Works in**
     - Evernote for Mac
     - Evernote web within Google Chrome Browser
-- Default Shortcut: ⌘⌃H
-- Screenshots
+- **Default Shortcut**: ⌘⌃H
+- **Screenshots**
     ![Editing the source of a note](https://dl.dropboxusercontent.com/u/3015062/Github/smj10j/macros/EditEvernoteAsHtml.png "Editing a note")
