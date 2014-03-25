@@ -1,18 +1,15 @@
-macros
-======
+# macros
 
 For all the things I wish were built-in.
 
-These are for *OSX only*.
+These are for **OSX only**.
 
 
-Keyboard Maestro
-================
+## Keyboard Maestro
 
-Evernote
---------
+### Evernote
 
-- *Edit the HTML of an Evernote note*
+- ######Edit the HTML of an Evernote note######
     - Requirements
         - Google Chrome Browser
     - Works in
