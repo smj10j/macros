@@ -9,7 +9,7 @@ These are for **OSX only**.
 
 ### Evernote
 
-- ###### Edit the HTML of an Evernote note
+###### Edit the HTML of an Evernote note
     - Requirements
         - Google Chrome Browser
     - Works in
