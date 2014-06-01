@@ -26,4 +26,4 @@ Right-click download links and select "Save Link As..."
     4. Make your changes
     5. Click "Update"
 - **Screenshots**
-    ![Editing the source of a note](https://www.evernote.com/shard/s43/res/82c89870-6fbc-48e0-a3c8-2bd4d3cca2e5 "Editing a note")
+    ![Editing the source of a note](https://c2.staticflickr.com/6/5273/14341327433_371283cfc9_c.jpg "Editing a note")
